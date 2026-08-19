@@ -5,4 +5,5 @@ import
 )
 func main() {
 	behaviour.Maingoroutinebehaviour()
+	behaviour.WaitGroupBehaviour()
 }
